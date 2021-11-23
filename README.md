@@ -24,7 +24,7 @@
 
 ## Purchase vs Sales for 2010
 
-## *Line Graphs*
+### *Line Graphs*
 
 ### Germany
 
@@ -34,7 +34,7 @@
 
 <img src="./chart_img/6_romania_sales_purchase_2010.png" />
 
-## *Bar Graphs*
+### *Bar Graphs*
 
 ### Germany
 
