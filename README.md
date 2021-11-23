@@ -14,7 +14,7 @@
 
 ### Middle East
 
-<img src="./chart_img/3_ME_sales_2010.png" />
+<img src="./chart_img/3_Me_sales_2010.png" />
 
 ### North America
 
@@ -24,7 +24,7 @@
 
 ## Purchase vs Sales for 2010
 
-## Line Graphs
+### LINE GRAPHS
 
 ### Germany
 
@@ -34,7 +34,7 @@
 
 <img src="./chart_img/6_romania_sales_purchase_2010.png" />
 
-## Bar Graphs
+### BAR GRAPHS
 
 ### Germany
 
